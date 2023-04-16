@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama" : "Avanaza",
+    "price": 156961,
+    "ukuran" : "Small"
+  },
+  {
+    "id": 2,
+    "nama" : "Inova",
+    "price": 150000,
+    "ukuran" : "Small"
+  },
+  {
+    "id": 3,
+    "nama" : "Ertiga",
+    "price": 100000,
+    "ukuran" : "Small"
+  }
+]
